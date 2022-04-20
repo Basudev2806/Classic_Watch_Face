@@ -7,10 +7,12 @@
 # Watch Faces Look
 ### `Normal Dial Look`
 <img alt="" src="./screenshot/Classic_1650431828987.png"/>
-###  `Normal Watch Look`
+
+### `Normal Watch Look`
 <img alt="" src="./screenshot/Classic_1650433250284.png"/>
 
 ### `Always on Display Dial Look`
 <img alt="" src="./screenshot/Classic_1650433310468.png"/>
-###  `Always on Display Watch Look`
+
+### `Always on Display Watch Look`
 <img alt="" src="./screenshot/Classic_1650433178598.png"/>
